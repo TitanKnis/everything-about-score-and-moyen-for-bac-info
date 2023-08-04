@@ -1,0 +1,37 @@
+importance ranking in moyen
+ranking : subject (difference it makes in moyen between 0 and 20 in the subject)
+1 : math (3.75)
+2 : algorithm technical (2.812)
+3 : physique (2.5)
+4 : TIC (1.875) / BD (1.875)
+5 :  Arabic (1.25) / English (1.25)
+/ french (1.25) / philo (1.25) / sport (1.25)
+/deutsch (.625*)
+6 : algorithm practical (0.938)
+
+Important !! :
+* : because Deutsch only apply from 10 to 20
+instead of from 0 to 20 like philo/ Arabic/
+sport/English/French it has half the difference of the fifth ranking (half 1.25 = (0.625) )even though it is just as important and can substitute for missing points from any of the fifth ranking subjects
+Example :
+if moyen = 10
+- 20 in deutsch can substitute for 0 in philo.
+- 15 in deutsch can substitute for 5 in Arabic.
+- 13 in deutsch can substitute for 7 in sport.
+but from 0 to 10 in deutsch it doesn't make any difference
+
+Important !! :
+if you add up all the subjects differences it equals to (20.625)
+###(deutsch (0.625))###
+but without Deutsch it equals to (20)
+so it is quite exact.
+
+PS:
+BD=base de donnes
+TIC=تكنولوجيا المعلومات والاتصال التطبيقي
+moyen = Academic average in BAC
+
+you don't fall because of deutsch but it can add if you get 20/20 about (0.625) in moyen
+if default moyen=10
+so 10 became 10.625
+and if you get 0/20 up to 10/20 in deutsch your moyen will still be (10)

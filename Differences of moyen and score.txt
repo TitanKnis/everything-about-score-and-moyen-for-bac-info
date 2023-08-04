@@ -1,0 +1,58 @@
+default moyen = 10
+min:with subject = 0 ; max=with subject = 20
+
+#
+
+philo : minmoy=9.375 ,maxmoy=10.625 ;
+difference in Moy=1.25
+minscore=97.5 ,maxscore=102.5
+difference in score = 5
+
+#
+
+English : minmoy=9.375 ,maxmoy=10.625 ;
+difference in Moy =1.25
+minscore=87.5 ,maxscore=112.5
+difference in score = 25
+
+#
+
+Arabic : minmoy=9.375 ,maxmoy=10.625 ;
+difference in Moy =1.25
+minscore=97.5 ,maxscore=102.5
+difference in score = 5
+
+#
+
+TIC : minmoy=9.063 ,maxmoy=10.938 ;
+difference in Moy =1.875
+minscore=93.75 ,maxscore=106.25
+difference in score =12.5
+
+#
+
+algorithm practical : minmoy=9.531 ,maxmoy=10.469 ;
+difference in Moy =0.938
+minscore=98.12 ,maxscore=101.88
+difference in score =3.76
+
+#
+
+algorithm technical: minmoy=8.594 ,maxmoy=11.406 ;
+difference in Moy =2.812
+minscore=79.38 ,maxscore=120.62
+difference in score =41.24
+
+#
+
+Physique : minmoy=8.75 ,maxmoy=11.250 ;
+difference in Moy =2.5
+minscore=90.0 ,maxscore=110
+difference in score = 20
+
+#
+
+math : minmoy=8.125 ,maxmoy=11.875 ;
+difference in Moy =3.75
+minscore=77.5 ,maxscore=122.5
+difference in score = 45

@@ -1,0 +1,35 @@
+importance ranking in score
+ranking : subject (difference it makes in score between 0 and 20 in the subject)
+1 : math (45)
+2 : algorithm technical (41.24)
+3 : English (25) / french (25)
+4 : physique (20)
+5 : TIC (12.5) / BD  (12.5)
+6 : philo(5)/Arabic(5)/sport(5)/ deutsch (2.5*)
+7 : algorithm practical (3.76)
+
+
+Important !! :
+* : because Deutsch only apply from 10 to 20
+instead of from 0 to 20 like philo/ Arabic/
+sport it has half the difference of the sixth ranking (half 5 = (2.5) )even though it is just as important and can substitute for missing points from any of the sixth ranking subjects
+Example :
+if moyen = 10
+- 20 in deutsch can substitute for 0 in philo.
+- 15 in deutsch can substitute for 5 in Arabic.
+- 13 in deutsch can substitute for 7 in sport.
+but from 0 to 10 in deutsch it doesn't make any difference
+
+Important !! :
+if you add up all the subjects differences it equals to (202.5)
+###(deutsch (2.5))###
+but without Deutsch it equals to (200)
+so it is quite exact.
+
+PS:
+BD=base de donnes
+TIC=تكنولوجيا المعلومات والاتصال التطبيقي
+
+you don't fall because of deutsch but it can add if you get 20/20 about (0.625) in moyen
+so 10 became 10.625
+and if you get 0/20 up to 10/20 in deutsch your moyen will still be (10).
